@@ -1,0 +1,43 @@
+document: Guideline Pengajuan Pembayaran 
+updated_at: 
+
+
+Table of Contents:
+- Form Payment Submission 
+- FAQ Pengajuan Pembayaran 
+- Berapa lama proses pembayaran? 
+- Apakah mencantumkan invoice-nya bisa memakai invoice Paper.id?
+- Catatan
+
+
+1. Isi Form Payment Submission 
+   Link: [https://bit.ly/PaymentSubmissionForm_](https://bit.ly/PaymentSubmissionForm_)  
+   - Masukkan alamat email Paper.  
+   - Masukkan nama lengkap.  
+   - Pilih departemen masing-masing.  
+   - Pilih C-Level yang menjadi direct report team kamu.  
+   - Jelaskan tujuan pengajuan pembayaran.  
+   - Upload bukti invoice & tanggal yang tertera pada invoice.  
+   - Masukkan nama bank, nomor rekening, dan nama pemilik rekening sesuai dengan yang tertera pada invoice.  
+   - Masukkan jumlah nominal yang tertera pada invoice.  
+   - Masukkan nama & tipe vendor:  
+     - Masukkan nomor NPWP jika tipe vendor adalah perusahaan.  
+     - Masukkan nomor KTP jika tipe vendor adalah perorangan dan tidak memiliki NPWP.  
+   - Upload foto NPWP atau KTP vendor.  
+   - Apabila terdapat faktur pajak, silahkan di-upload.  
+   - Apabila ada surat keterangan bebas pajak, silahkan di-upload.  
+
+
+FAQ Pengajuan Pembayaran  
+1. Berapa lama proses pembayaran?  
+   - A: Tim Finance akan segera memproses pengajuan dana ke manajemen untuk otorisasi. Estimasi pencairan adalah maksimal H+2 (pada hari kerja). Jika pengajuan dilakukan pada hari Jumat atau hari libur, maka akan diproses pada hari Senin berikutnya.  
+
+2. Apakah mencantumkan invoice-nya bisa memakai invoice Paper.id?  
+   - A: Jika vendornya perorangan, dihimbau untuk mengirimkan invoice menggunakan Paper.id.  
+
+
+Catatan: 
+Pastikan form diisi secara **LENGKAP** sesuai dengan setiap pertanyaan yang diminta sebelum submit.  
+
+ 
+

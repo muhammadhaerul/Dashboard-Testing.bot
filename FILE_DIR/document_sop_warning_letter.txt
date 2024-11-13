@@ -1,0 +1,77 @@
+document: SOP Warning Letter
+updated_at:
+
+Table of Contents:
+- Defenisi Surat Peringatan
+- Prosedur
+- 1. PROSEDUR PENERBITAN SURAT PERINGATAN
+- 2. PROSEDUR EVALUASI SURAT PERINGATAN
+- Dokumen yang Dilampirkan
+- Syarat dan Ketentuan Lainnya
+
+PT. PAKAR DIGITAL GLOBAL    
+DEPARTEMEN HUMAN CAPITAL  
+Tanggal: 13 Nov 2023
+PROSEDUR MANAJEMEN SURAT PERINGATAN
+
+Menyetujui 
+Direksi
+
+TUJUAN
+- Untuk standarisasi kebijakan dan prosedur yang berhubungan dengan proses penerbitan surat peringatan karyawan.
+- Untuk memberikan pedoman kerja yang jelas sehingga tercipta konsistensi dan pelaksanaan yang lebih baik, benar dan tepat waktu.
+
+CAKUPAN KERJA
+Berlaku untuk seluruh karyawan dan unit di PT PAKAR DIGITAL GLOBAL
+
+PIHAK TERKAIT
+Semua level karyawan PT. Pakar Digital Global (Paper.id)
+
+DEFINISI
+- Surat Peringatan adalah surat yang dibuat atau dikeluarkan oleh perusahaan yang ditujukan kepada karyawan yang melanggar ketentuan-ketentuan yang telah ditetapkan perusahaan
+- Surat peringatan dibagi dalam tiga tahap yaitu surat peringatan I, surat peringatan II, surat peringatan III.
+- Tujuan diberikan surat peringatan adalah salah satu bentuk upaya perusahaan dalam hal membina karyawan agar melaksanakan tugas dan kewajiban lebih baik serta membina sikap atau unjuk kerja lebih teratur dan terarah
+
+PROSEDUR
+1. PROSEDUR PENERBITAN SURAT PERINGATAN
+    - Atasan memberikan pengaduan kepada departemen Human Capital mengenai pelanggaran yang dilakukan karyawan disertakan dengan bukti atau saksi.
+    - Pengaduan dapat dilakukan melalui email ke:
+        - Departemen Tech, Product, Data: evan.tree@paper.id
+        - Departemen Sales, Commercial, Financing Business, Financing Product: mahendra.wijaya@paper.id & cc: evan.tree@paper.id
+        - Departemen Marketing, Ops & CS, DUIX, Finance, CEO Office, Human Capital: evan.tree@paper.id
+    - HC akan melakukan investigasi terhadap pelanggaran yang dilakukan dalam 2 (dua) hari kerja, dengan cara seperti:
+        - Melakukan investigasi dengan cara interview ke atasan, bahkan jika dibutuhkan ke karyawan.
+        - Melakukan investigasi langsung ke bukti kesalahan dapat berupa bentuk text, foto, data, suara, dan lain-lain
+        - HC akan merekomendasikan hasil investigasi dan rekomendasi ke atasan, dan berikut hasil rekomendasi yang dapat diberikan:
+            - Dinyatakan benar dan memberikan SP sesuai dengan permintaan
+            - Dinyatakan SP tidak bisa diberikan karena kurangnya bukti, saksi, dan justifikasi
+            - Dinyatakan SP yang diberikan lebih besar dibandingkan permintaan sebelumnya karena tingkat kesalahan dianggap jauh lebih berat dan sesuai dengan Peraturan Perusahaan
+        - Atasan akan meninjau dan menanggapi rekomendasi HC selambat-lambatnya 1 (satu) hari kerja
+        - Setelah SP telah ditinjau dan disepakati oleh HC dan Atasan, maka HC akan memberikan informasi ini ke karyawan dengan cara:
+            - Melakukan pertemuan online/offline antara HC, Atasan dengan Karyawan untuk menyampaikan rencana SP tersebut
+            - Memberikan surat SP melalui email ke karyawan dan cc atasan langsung, dan meminta karyawan untuk memberikan tanda tangan pada surat tersebut
+        - Proses pemberian informasi akan diberikan maksimal 2 (dua) hari kerja
+2. PROSEDUR EVALUASI SURAT PERINGATAN
+    - Setiap bulannya atasan dapat melakukan evaluasi atasan peningkatan dan perubahan lebih baik setelah SP diberikan
+    - Atasan harus memberikan hasil keputusan evaluasi SP ke Human Capital melalui email
+    - Jika karyawan dinyatakan sudah memenuhi harapan dan lolos dari SP, maka HC akan mengirimkan email konfirmasi ke karyawan tersebut, menyatakan SP sudah selesai, dan karyawan tidak dibebankan dengan SP lagi
+    - Jika karyawan dinyatakan tidak dapat memenuhi, maka HC akan melakukan rekomendasi ke atasan untuk tindakan lanjutan sesuai dengan Peraturan Perusahaan yang berlaku
+
+DOKUMEN YANG DILAMPIRKAN:
+- Surat Peringatan 1,2,3
+- Peraturan Perusahaan
+
+SYARAT DAN KETENTUAN LAINNYA
+- Surat Peringatan (SP) Pertama, Kedua atau Ketiga dari HC berdasarkan surat permintaan dari Atasan Langsung atau Pimpinan Perusahaan yang berwenang, minimal setingkat Manajer serta disetujui oleh Direksi, masing-masing dengan masa berlaku maksimal 6 (enam) bulan;
+- Surat Peringatan (SP) Pertama, Kedua dan Ketiga dapat diberikan tanpa menuntut urut-urutan tertentu sampai dengan tingkat tertinggi tetapi dapat diberikan berdasarkan besar kecilnya pelanggaran yang dilakukan karyawan;
+- Surat Peringatan (SP) Kedua atau Ketiga dapat diberikan tanpa menunggu masa berlaku (SP) Pertama Berakhir dimana menimbang tindakan pelanggaran yang sama berulang dan pelanggaran lain yang tingkatannya lebih berat dari (SP) sebelumnya;
+- Surat Peringatan berlaku maksimal selama 6 (enam) bulan sejak tanggal dikeluarkan, dan apabila dalam masa ini karyawan yang bersangkutan sudah menunjukkan perbaikan-perbaikan, maka Surat Peringatan tersebut akan dianggap telah berakhir masa berlakunya, namun tidak bisa dicabut sebelum habis masa berlakunya sebagaimana tercantum dalam Surat Peringatan tersebut;
+- Sebaliknya, apabila dalam masa ini karyawan yang bersangkutan masih melakukan pelanggaran, maka Surat Peringatan tingkat berikutnya sampai Peringatan III, akan diberikan kepada karyawan apabila karyawan masih melakukan pelanggaran, yang tentunya akan diadakan pemutusan hubungan kerja sesuai peraturan perundangan yang berlaku.
+
+Diajukan Oleh,  
+Evan Tree  
+Head of Human Capital  
+
+Disetujui Oleh,  
+Yosia Sugialam  
+Chief Executive Officer

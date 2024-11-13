@@ -1,0 +1,82 @@
+document: SOP Leave and Absence
+updated_at: 
+
+Table of Contents:
+1. CUTI YANG BERLAKU DI PT PAKAR DIGITAL GLOBAL
+   ● Cuti Tahunan
+   ● Cuti Sakit
+   ● Cuti Lain Lain
+   ● Cuti Tidak Dibayarkan (Unpaid Leave)
+2. PROSES ABSENSI YANG BERLAKU
+
+PT. PAKAR DIGITAL GLOBAL
+DEPARTEMEN HUMAN CAPITAL
+Tanggal 13 November 2023
+
+SOP CUTI & ABSENSI 
+
+Menyetujui 
+Direksi
+
+TUJUAN
+● Untuk standarisasi kebijakan dan prosedur yang berhubungan dengan pengajuan cuti dan absen karyawan.
+● Untuk memberikan pedoman kerja yang jelas sehingga tercipta konsistensi dan pelaksanaan yang lebih baik, benar dan tepat waktu.
+
+CAKUPAN KERJA
+Berlaku untuk seluruh karyawan permanen di PT PAKAR DIGITAL GLOBAL
+
+PIHAK TERKAIT
+Semua level karyawan permanen PT. Pakar Digital Global (Paper.id)
+
+PROSEDUR
+1. CUTI YANG BERLAKU DI PT PAKAR DIGITAL GLOBAL
+● Cuti Tahunan
+   ○ Periode cuti tahunan yang dapat digunakan di PT PAKAR DIGITAL GLOBAL yang berlaku adalah awal tahun sampai akhir tahun pada tahun tersebut
+   ○ Hak cuti tahunan adalah 12 dalam satu tahun yang berlaku untuk semua karyawan permanen PT PAKAR DIGITAL GLOBAL
+   ○ Hak cuti tahunan tidak akan muncul secara total sebanyak 12 diawal, tetapi mengikuti bulan kerja berjalan pada periode cuti tahunan tersebut, dan tanggal yang diperhitungkan bulan kerja maksimal adalah tanggal 15
+   ○ Hak atas Cuti Tahunan dapat mulai digunakan setelah karyawan lulus masa percobaan
+   ○ Maksimal penggunaan cuti setiap karyawan adalah 5 hari setiap tujuan cutinya, jika melebihi 5 hari, maka membutuhkan approval tambahan dari VP atau C-Level terkait
+   ○ Karyawan yang hendak menggunakan cuti tahunannya wajib memberitahukan kepada perusahaan dengan mengisi formulir permohonan cuti di HRIS dan disetujui Atasan masing-masing selambat-lambatnya 1 (satu) minggu sebelum cuti dimaksud
+   ○ Cuti yang belum digunakan sama sekali dan masih berlaku untuk tahun berjalan, dapat dibawa dengan cuti tahun berikutnya maksimal 6 hari atau disebut Carry Over Leave
+   ○ Carry Over Leave dapat digunakan maksimal sampai bulan ke 6 pada tahun berjalan
+   ○ Selama menjalankan cuti tahunan atau cuti lainnya, karyawan tidak dibenarkan bekerja pada perusahaan lain. Pelanggaran terhadap ketentuan ini merupakan tindak pelanggaran disiplin kerja
+   ○ Cuti tahunan yang tidak dapat dilaksanakan tidak dapat diuangkan
+● Cuti Sakit
+   ○ Cuti sakit diberikan berdasarkan Surat Keterangan Dokter terhadap karyawan yang terganggu kesehatannya atau penyakitnya dinyatakan berbahaya bagi kesehatan orang lain
+   ○ Karyawan yang tidak dapat bekerja karena sakit yang bukan disebabkan oleh kecelakaan kerja diharuskan untuk memberitahu atasannya atau HC selambat-lambatnya pukul 08:00 WIB di hari yang sama
+   ○ Karyawan harus mengajukan cuti sakit melalui sistem HRIS, dan jika cuti sakit lebih dari 1 hari harus melampirkan surat keterangan dokter
+   ○ Penyalahgunaan cuti sakit oleh karyawan merupakan tindak pelanggaran disiplin kerja
+● Cuti Lain Lain
+   ○ Selain Cuti yang diatur secara khusus, Perusahaan juga wajib memberikan izin dan tetap membayarkan upah kepada karyawan yang tidak masuk bekerja dengan alasan sebagai berikut:
+      ■ Karyawan menikah, diberikan izin selama 3 (tiga) hari
+      ■ Karyawan menikahkan anaknya, diberikan izin selama 2 (dua) hari
+      ■ Karyawan mengkhitankan anaknya, diberikan izin selama 2 (dua) hari
+      ■ Karyawan membaptiskan anaknya, diberikan izin selama 2 (dua) hari
+      ■ Suami/istri, orang tua/mertua atau anak atau menantu, nenek/kakek dan saudara kandung meninggal dunia, diberikan izin selama 2 (dua) hari
+      ■ Anggota keluarga dalam satu rumah meninggal dunia, diberikan izin selama 1 (satu) hari
+   ○ Karyawan yang telah bekerja 1 (satu) tahun berturut-turut dan untuk pertama kalinya akan menunaikan ibadah haji diberikan ijin 1 (satu) kali untuk menunaikan ibadah haji dengan jumlah hari izin sesuai perhitungan dan ketetapan Departemen Agama Republik Indonesia.
+   ○ Karyawan diharuskan mengajukan permohonan untuk mendapatkan cuti pergi menunaikan ibadah Haji dalam waktu tidak kurang dari sepuluh (10) minggu sebelum tanggal keberangkatan.
+   ○ Permohonan izin melebihi ketentuan di atas akan diperhitungkan dengan hak cuti tahunan yang ada dengan persetujuan Atasan langsung. Apabila karyawan sudah tidak memiliki hak cuti tahunan, maka akan dikenakan pemotongan upah sesuai perhitungan penggajian yang berlaku.
+   ○ Semua permohonan cuti lain - lain harus mengisi form permohonan cuti pada HRIS dan mendapat persetujuan atasan, selambat-lambatnya 1 (satu) minggu sebelum cuti yang dimaksud kecuali untuk cuti ibadah
+● Cuti Tidak Dibayarkan (Unpaid Leave)
+   ○ Cuti tidak dibayarkan adalah cuti yang diberikan dimana perusahaan tidak akan melakukan membayar gaji selama karyawan melakukan cuti tidak dibayarkan
+   ○ Cuti tidak dibayarkan harus melalui persetujuan atasan, dan diajukan melalui sistem HRIS
+
+2. PROSES ABSENSI YANG BERLAKU
+   ○ Absensi karyawan dilakukan 2 kali dalam satu hari yaitu:
+      ■ Clock In : 09.00 AM
+      ■ Clock Out : 06.00 PM
+   ○ Maksimal keterlambatan Clock In adalah 09.30 AM dan harus Clock Out minimal 06.30 PM, atau mengikuti 9 jam kerja dalam satu hari
+   ○ Karyawan harus melakukan absensi dengan melalui sistem HRIS yang berlaku
+   ○ Karyawan diwajibkan untuk melakukan absensi secara lengkap sesuai jadual kerja, dan jika karyawan tidak melakukan absensi maka akibatnya adalah:
+      ■ Tunjangan Makan akan tidak terhitung pada karyawan tidak melakukan absensi
+      ■ Karyawan akan dianggap mangkir, dan akan dibebankan unpaid leave
+   ○ Jika karyawan lupa dan kesalahan melakukan absensi, maka karyawan dapat melakukan koreksi kehadiran, dan HC akan memverifikasi apakah koreksi dapat disetujui atau tidak
+
+Diajukan Oleh,
+Evan Tree
+Head of Human Capital
+
+Disetujui Oleh,
+Yosia Sugialam
+Chief Executive Officer

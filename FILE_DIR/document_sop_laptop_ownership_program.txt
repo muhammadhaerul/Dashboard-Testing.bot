@@ -1,0 +1,85 @@
+document: SOP Laptop Ownership Program
+updated_at:
+
+Table of Contents:
+- Definisi Laptop Ownership Program
+- Prosedur Laptop Ownership Program 
+- Dokumen yang Dibutuhkan untuk Laptop Ownership Program 
+- Hasil yang dikeluarkan Laptop Ownership Program
+- Syarat Pengajuan Laptop Ownership Program
+
+PT. PAKAR DIGITAL GLOBAL
+DEPARTEMEN HUMAN CAPITAL
+Tanggal 13 November 2023
+PROSEDUR PENGAJUAN LAPTOP OWNERSHIP PROGRAM (LOP)
+
+Menyetujui 
+Direksi
+
+TUJUAN
+Program dirancang agar karyawan mendapatkan kesempatan untuk memiliki laptop baik untuk keperluan pekerjaan maupun pribadi. Program ini bertujuan untuk meningkatkan produktivitas, fleksibilitas, dan kepuasan kerja karyawan. Pada saat yang sama, program ini akan membantu perusahaan dengan mengurangi aset yang dimiliki.
+
+CAKUPAN KERJA
+Prosedur ini dapat dilakukan oleh semua divisi di semua wilayah kerja PT. Pakar Digital Global (Paper.id).
+
+PIHAK TERKAIT
+Semua level karyawan permanen PT. Pakar Digital Global (Paper.id).
+
+DEFINISI
+1. LOP: Laptop Ownership Program
+2. CC: Carbon-copy
+3. BYOD: Bring Your Own Device, tunjangan laptop yang diberikan buat karyawan yang menggunakan laptop pribadi
+
+PROSEDUR
+1. Karyawan harus meminta persetujuan dari atasan langsung mereka untuk berpartisipasi dalam program LOP melalui email, dengan menyertakan (CC) departemen Human Capital (people-team@paper.id) dan detail berikut:
+   ○ Nama Lengkap
+   ○ Departemen/Tim
+   ○ Jabatan
+   ○ Merek dan tipe laptop yang diajukan
+   ○ Tenor cicilan
+   ○ Alasan partisipasi
+2. Setelah menerima permintaan LOP oleh karyawan, atasan langsung akan meninjau permintaan tersebut, dengan mempertimbangkan keselarasannya dengan peran pekerjaan dan kinerja karyawan. Jika disetujui, atasan langsung akan memberikan respon persetujuan dan meneruskan permintaan tersebut kepada departemen Human Capital untuk diproses lebih lanjut. Jika ditolak, atasan langsung akan memberikan penjelasan singkat dalam tanggapan mereka.
+3. Setelah menerima persetujuan dari atasan langsung dan departemen Human Capital, karyawan diharuskan mengisi Google Form (bit.ly/PengajuanPaperLOP) terkait permintaan karyawan. Formulir ini akan mencatat detail penting terkait partisipasi karyawan dalam Program LOP, termasuk model laptop yang diinginkan, opsi pembiayaan, dan dokumentasi tambahan yang diperlukan. Pengajuan Google Form berfungsi sebagai aplikasi resmi dan memulai proses lebih lanjut dari permintaan tersebut.
+4. Setelah menerima Formulir Permintaan LOP yang telah diisi lengkap, departemen Human Capital akan melanjutkan untuk membuat surat perjanjian resmi berdasarkan rincian permintaan selambat-lambatnya 3 (tiga) hari dari tanggal Formulir Permintaan LOP diterima. Perjanjian ini menguraikan syarat dan ketentuan Program LOP, termasuk tanggung jawab, panduan penggunaan, dan financial arrangement apa pun.
+5. Setelah menyelesaikan surat perjanjian, surat perjanjian akan dibagikan kepada karyawan yang berpartisipasi untuk ditinjau dan ditandatangani. Karyawan harus membaca dengan saksama ketentuan-ketentuan yang ada, dan menandatangani surat perjanjian tersebut untuk menyatakan komitmen mereka terhadap syarat dan ketentuan program LOP.
+6. Setelah surat perjanjian ditandatangani, departemen Human Capital akan mengirimkannya melalui email ke departemen Finance untuk ditinjau. Jika model laptop yang dipilih memerlukan uang muka, karyawan harus melakukan pembayaran kepada departemen Finance sebelum melanjutkan pembelian. Jika tidak ada uang muka yang diperlukan, departemen Finance akan segera membeli laptop sesuai permintaan, memastikan financial arrangement sudah sesuai sebelum pembelian.
+7. Setelah pembelian laptop, jika ada biaya pengiriman dan biaya asuransi pengiriman yang terkait, departemen Finance akan segera memberi tahu departemen Human Capital dan karyawan. Karyawan akan diminta untuk melakukan pembayaran yang diperlukan untuk biaya-biaya ini sebelum melanjutkan proses serah terima laptop.
+8. Setelah pembayaran biaya kirim dan asuransi telah dilakukan, karyawan akan diminta untuk menandatangani surat serah terima laptop, yang menyatakan bahwa karyawan telah menerima laptop yang dibeli dan bertanggung jawab atas perawatan dan penggunaannya. Setelah menandatangani surat ini, departemen IT Support akan mengawasi proses serah terima laptop, memberikan bantuan atau panduan teknis yang diperlukan untuk memastikan transisi yang mulus bagi karyawan.
+9. Setelah serah terima laptop berhasil, departemen Finance akan mencatat transaksi ini dan melanjutkan dengan pemotongan berulang. Departemen Finance akan memotong jumlah yang disepakati, seperti yang tercantum dalam surat perjanjian, langsung dari gaji bulanan karyawan hingga seluruh biaya laptop dilunasi. Pemotongan sistematis ini memastikan rencana pembayaran yang terstruktur sesuai dengan ketentuan yang diuraikan dalam surat perjanjian.
+
+DOKUMEN YANG DIBUTUHKAN
+1. Form pengajuan LOP.
+2. Surat perjanjian LOP.
+3. Surat serah terima LOP.
+4. Bukti pembayaran uang muka (jika diperlukan)
+
+HASIL YANG DIKELUARKAN
+1. Surat perjanjian LOP yang sudah ditandatangani oleh perusahaan dan karyawan.
+2. Surat serah terima Laptop yang sudah ditandatangani oleh departemen terkait dan karyawan.
+3. Laptop.
+
+SYARAT PENGAJUAN LAPTOP OWNERSHIP PROGRAM
+1. Karyawan dapat mengajukan program LOP setelah lulus masa percobaan (probation).
+2. Pembayaran LOP akan ditanggung karyawan dari potongan gaji setiap bulan secara diangsur.
+3. Maksimal harga pembelian laptop ditentukan sesuai departemen dan level karyawan yang mengajukan;
+   a. Technology (DevOps, Engineer, IT, QA), Data
+      i. Associate / Senior Associate: Rp12.000.000
+      ii. Lead / Manager: Rp17.000.000
+      iii. Senior Manager / Head of Department / Vice President: Rp22.000.000
+   b. Non-Technology (Departemen/Division selain Tech, Data)
+      i. Associate / Senior Associate: Rp10.000.000
+      ii. Lead / Manager: Rp15.000.000
+      iii. Senior Manager / Head of Department / Vice President: Rp20.000.000
+
+4. Apabila harga laptop lebih dari ketentuan diatas, maka karyawan berkewajiban untuk membayarkan selebihnya dimuka atau disebut uang muka.
+5. Perusahaan akan memberikan subsidi 25% dari ketentuan maksimal harga laptop dengan tenor cicilan 12 bulan atau subsidi 40% dari ketentuan maksimal harga laptop dengan tenor cicilan 18 bulan.
+6. Pembelian Laptop harus dilakukan oleh departemen IT Support.
+7. Bagi karyawan yang menggunakan laptop kantor sebelumnya, harus mengembalikan laptopnya terlebih dahulu ke departemen IT pada proses serah terima laptop LOP nya.
+
+Diajukan Oleh,
+Evan Tree
+Head of Human Capital
+
+Disetujui Oleh,
+Yosia Sugialam
+Chief Executive Officer

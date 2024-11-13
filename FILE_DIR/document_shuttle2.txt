@@ -1,0 +1,188 @@
+document: Shuttle 2.0
+updated_at:
+
+Table of Contents:
+- Series 2: Becoming Excellent Leader
+- SMART Goal Setting
+- OKR Designing
+- Goal cascading
+- Goals: S M A R T
+- What is Goal Setting & Why is it Important?
+- Objective Key Result
+- Benefit of Goal Setting
+- The Fundamentals of OKR
+- Elements of OKR
+- OKR Mistakes
+- Set OKRs
+- OKR Example
+
+SHUTTLE 2.0
+
+S.M.A.R.T Goal Setting
+S.M.A.R.T Goal Setting is
+S.M.A.R.T Goal Setting Example
+
+Simple Goal vs. Smart Goal
+I need to study more
+I will study daily to continually improve my grades, proven by my quizzes, in chemistry to graduate at the top of my class in one year.
+I want to publish more blog posts on my website.
+Starting next week, I will post a 1,500-word article on my blog each week for a year, culminating in fifty-two blog posts and increased traffic to my site.
+I want to get fit again.
+Next week, I’ll begin working out every day with a personal trainer and we will continually track my fitness goals. I’ll be under 10% body fat and ready to run the Boston Marathon within eight months.
+
+Let’s Exercise!
+Goals: S M A R T
+Crafting Goals Based on OKR
+What is Goal Setting & Why is it Important?
+It is a collaborative goal-setting methodology used by teams and individuals to set challenging, ambitious goals with measurable results.
+- Whatmatters.com
+A framework used by organizations and individuals for collaboratively setting ambitious goals, tracking progress, and aligning action with an organization’s strategy to achieve measurable results.
+- Balancedscorecard.org
+
+Objective Key Result
+To ensure all employees are connected to PAPER.ID overall direction and goals through their individual goals
+
+Benefit of Goal Setting:
+- Drive Performance
+- Creates Alignment
+- Encourages Ownership
+- Builds Accountability
+- Set Direction & Motivation
+
+The Fundamentals of OKR:
+Key elements and things to avoid
+
+5 Key Elements of OKR
+1. FOCUS
+2. ALIGN
+3. COMMITMENT
+4. TRACKING
+5. STRETCHING
+
+Common OKR Mistakes:
+1. Business as Usual OKRs
+2. Sandbagging
+3. Lack of alignment
+
+How to Create Goal Setting Based on OKR
+Steps to Set OKRs:
+1. Identify a North Star, or top-level Objective.
+2. Set Objectives and narrow it down to the most important 1 to 2 for now.
+3. Set Key Results and narrow it down to the most important 2 to 5 for now.
+4. Align The OKRs.
+
+Setting Objectives:
+- Is the Objective aligned with the goals of the company/organization?
+- Will the company want to work toward this Objective?
+- Is it ambitious enough to push the team a little harder?
+- Will it advance the company or organization overall?
+- Does the Objective serve to guide the team, or would it make things more confusing?
+
+Setting Key Results:
+- Does the Key Result lead to achieving your Objective?
+- Is this Key Result the most efficient way toward achieving your Objective, or is there a more appropriate one?
+- Is this possible with the current staff capacity?
+- Does it complement the capabilities of the company?
+- Do you have a system in place to periodically track and measure the Key Results?
+
+Goal-setting Comprises...
+Objective: Improving Hiring Speed by having significant Employer Branding activation by end of Q4.
+Key Result 1: To have 6 employer branding events with targeted universities by end of Q4.
+Key Result 2: Increasing referral program from 20% to 40% by end of Q4.
++ Metrics: Number of event completions.
++ Metrics: % of hiring referral generated.
+
+Cascading Approach
+Dept Objective → Team Objective → Individual Objective
+
+Options when crafting your objective + key result (depending on your role):
+1. Directly take your Dept’s / Team’s objective + key result as your own.
+2. Directly take your Dept’s / Team’s objective and craft your own objectives.
+3. Directly take key result of your Dept/Team and use as the Objective + craft your own Key Result.
+
+Approach 1:
+Directly take your Dept’s / Team’s objective + key result as your own.
+Example: Reduce Infrastructure Downtime by end of Q1.
+Key Result: Achieve 99.99% uptime for all production systems by end of Q1.
+
+Approach 2:
+Directly take your Dept’s / Team’s Objective and craft your own key result.
+Example: Make a radically smooth user onboarding and activation experience in Q1 2024.
+Key Result: Increase profile completion rate from 20% to 85% by end of Q1 2024.
+
+Approach 3:
+Directly take key result of your Dept/Team and use as the Objective + craft your own Key Result.
+Example: Improve data accuracy rate from 80% to 95% in data quality checks by end of Q1 2023.
+Key Result: Reduce data entry errors by 20% through process improvements and automation by W2 Feb 2023.
+
+Setting Your Objective & Key Result:
+Team/Dept Objective: Reduce Infrastructure Downtime by end of Q1.
+Key Result: Achieve 99.99% uptime for all production systems by end of Q1.
+
+Team/Dept Objective: Make a radically smooth user onboarding and activation experience in Q1 2024.
+Key Result: Reduce churn through onboarding funnel steps 3 and 4 from 60% to 20% by end of Q1 2024.
+
+How to Measure:
+Approach 1: Output Basic measurement metrics.
+Approach 2: Outcome/Impact.
+Approach 3: Efficiency Optimization.
+
+For the objective you have selected, there are a few ways you can measure it.
+- SLA
+- Error Rate
+- CSAT
+- eNPS
+- Retention
+- Time for taken ticket resolution
+
+Weightage Your OKR:
+1. How much direct influence do you have over these Objective & Key Result?
+2. Does the weighting reflect the priorities of the department?
+
+Each objective key result min weight of 5% (& in multiples of 5%). Anything less than this is insignificant and does not move the needle. Total weight of all objective key result is 100%.
+
+Let’s Design the OKR!
+
+Let’s Check Our OKR Comprehension
+
+OKR EXAMPLE #2 - Why it's wrong? It’s not specific, vague, and unquantifiable so it can’t be tracked.
+- Make our company go viral: 10%
+- Generate 100,000 views in our YouTube channel: 10%
+- Increase organic search traffic to our website by 20%: 10%
+- Get more Instagram followers: 10%
+
+OKR EXAMPLE #1 - Why it's wrong? It’s not specific, vague, and not the most efficient way toward achieving the Objective.
+- Achieve record 3rd quarter revenue growth: 10%
+- Generate $100k in new revenue: 10%
+- Reduce customer churn in the first quarter from 15% to 10%: 10%
+- Onboard 300 new clients: 10%
+- Launch new line of business: 10%
+
+OKR EXAMPLE #4 - Why it's wrong? It’s not OKR. Rather a project with a task list. Key results are not tasks to be achieved. It should describe outcomes, not activities.
+- Implement new outbound email campaign: 10%
+- Write email copy to send to outbound leads: 10%
+- Get a list of outbound leads: 10%
+- Send email to everyone on the list: 10%
+
+OKR EXAMPLE #5 - Let’s say that the C-Levels of an online grocery company set the following company-wide OKR:
+- Become the leading online grocery in the region by 2023: 10%
+- Makeup 60% of all SKU sales in the region: 10%
+- Reach 90% customer satisfaction for operational service: 10%
+- Increase brand visibility by 50 percent: 10%
+- Open second location by the end of the year: 10%
+
+OKR EXAMPLE #5.1:
+- Makeup 60% of all SKU sales in the region by end of 2023: 10%
+- Hire 2 new Area Sales Managers in Q1 2023: 10%
+- Increase the number of SKU sold by 55% over the last year by end of 2023: 10%
+- Increase the sales revenue by 40% over the last year by end of 2023: 10%
+- Implement monthly sales promotion: 10%
+
+OKR EXAMPLE #5.2:
+- Increase the number of SKU sold by 55% over the last year by end of 2023: 10%
+- Speak to at least 50 potential customers a month: 10%
+- Successfully close at least 12 sales a month: 10%
+
+https://bit.ly/LeadershipWorkshopSurvey
+
+Thank You!

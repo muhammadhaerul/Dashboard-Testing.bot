@@ -1,0 +1,75 @@
+document: SOP Compensation and Benefits
+updated_at: 
+
+Table of Contents:
+- BYOD Allowance (Bring Your Own Device)
+- Tunjangan Makan
+- Asuransi Kesehatan
+- Benefit Kacamata
+- Benefit Persalinan
+
+PT. PAKAR DIGITAL GLOBAL Nomor
+DEPARTEMEN HUMAN CAPITAL Tanggal 13 November 2023
+SOP COMPENSATION & BENEFIT 
+Menyetujui Direksi
+
+TUJUAN
+● Untuk memberikan gambaran compensation dan benefit yang akan diterima karyawan permanen PT PAKAR DIGITAL GLOBAL
+● Standarisasi compensation dan benefit yang berlaku di PT PAKAR DIGITAL GLOBAL
+
+CAKUPAN KERJA
+Berlaku untuk seluruh karyawan permanen di PT PAKAR DIGITAL GLOBAL
+
+PIHAK TERKAIT
+Seluruh karyawan permanen di PT PAKAR DIGITAL GLOBAL
+
+JENIS - JENIS EMPLOYEE BENEFIT YANG BERLAKU DI PT PAKAR DIGITAL GLOBAL
+● BYOD Allowance (Bring Your Own Device)
+   ○ BYOD Allowance ini diberikan sebesar Rp. 250.000 setiap bulannya bersamaan dengan pembayaran gaji karyawan
+   ○ BYOD Allowance ini diberikan untuk karyawan yang menggunakan laptop pribadi
+   ○ Jika karyawan di kemudian hari ingin menggunakan laptop pribadi, untuk dapat menginfokan ke people-team@paper.id, dengan syarat karyawan harus memulangkan laptop kantor terlebih dahulu ke IT Division.
+
+● Tunjangan Makan
+   ○ Tunjangan Makan diberikan sebesar Rp.30.000/hari kerja dan dibayarkan bersamaan dengan pembayaran gaji karyawan
+   ○ Syarat untuk mendapat Tunjangan Makan adalah:
+      ■ Karyawan melakukan absen secara penuh yaitu clock in dan clock out pada aplikasi HRIS (Gaji.ID) sesuai dengan jadual kerja yang ditentukan, jika karyawan lupa untuk melakukan absen maka karyawan tidak berhak untuk tunjangan makan tersebut
+      ■ Tunjangan Makan tidak berlaku jika karyawan absen karena sedang cuti, sakit, dan kejadian lain yang dimana karyawan tidak dapat bekerja.
+
+● Asuransi Kesehatan
+   ○ Asuransi kesehatan diberikan untuk seluruh karyawan permanen yang telah melewati masa percobaan
+   ○ Asuransi kesehatan mengikutsertakan pasangan, dan anak maksimal 2 (dua)
+   ○ Asuransi kesehatan akan dilakukan renewal setiap tahunnya, dengan masa periode berlaku adalah 1 Januari - 31 Desember
+   ○ Plan Asuransi Kesehatan yang diberikan meliputi Rawat Inap, Rawat Jalan, & Rawat Gigi, dan dibagi ke berbagai kelas, seperti:
+      ■ Head, VP, C Level : Plan 1
+      ■ Senior, Lead/Manager, Sr Manager : Plan 2
+      ■ Staff/Associate, Sr Associate : Plan 3
+   ○ Setiap pasangan dan anak dari karyawan akan mengikuti plan satu tingkat dibawah dari karyawan, kecuali karyawan tersebut sudah di plan 3
+
+● Benefit Kacamata
+   ○ Perusahaan memberikan tunjangan kacamata kepada seluruh Astronaut full-time PT. Pakar Digital Global yang telah melewati masa percobaan.
+   ○ Tunjangan kacamata yang diberikan adalah sebesar 70% dari nilai kuitansi dengan maksimal reimbursement Rp1,000,000.
+   ○ Jika Astronaut memiliki masa kerja kurang dari 1 tahun, perusahaan akan memberikan tunjangan kacamata secara prorata sesuai dengan masa kerja Astronaut tersebut.
+   ○ Tunjangan kacamata hanya dapat digunakan untuk mengganti biaya pembuatan kacamata (lensa dan frame), tidak termasuk softlens ataupun kacamata fashion.
+   ○ Sistem pemberian tunjangan kacamata dilakukan dengan sistem reimbursement dengan mengisi form pengajuan reimbursement (bit.ly/PengajuanKacamataPaperID) lalu menyerahkan kwitansi asli atau invoice dan resep lensa kacamata kepada departemen Human Capital.
+   ○ Proses reimbursement membutuhkan waktu kurang lebih 1 (satu) minggu dari dilakukannya pengajuan dan diserahkannya kwitansi asli ke departemen Human Capital.
+   ○ Perusahaan hanya membayarkan tunjangan kacamata dengan besaran sesuai nilai kuitansi, apabila nilai kuitansi melebihi ketentuan yang diberikan maka perusahaan hanya akan membayarkan sesuai plafon (70% dari nilai kuitansi dengan maksimal reimbursement Rp1,000,000) saja.
+
+● Benefit Persalinan
+   ○ Benefit Persalinan hanya diberikan kepada karyawan dengan minimal telah bekerja selama 6 (enam) bulan dengan PAPER.ID.
+   ○ Benefit Maternity yaitu sebesar:
+      ■ Persalinan Normal : Rp. 5.000.000
+      ■ Persalinan Caesar : Rp. 10.000.000
+   ○ Sistem penggantian biaya persalinan hanya dapat dilakukan dengan sistem reimburse, dan menyertakan kuitansi asli yang dilengkapi cap basah Rumah
+   ○ Sakit atau Puskesmas atau Klinik, bukan duplikat atau dalam bentuk photocopy, dan tidak digunakan sebelumnya untuk klaim ke asuransi lain, BPJS Kesehatan, ataupun kepada Perusahaan pasangan.
+   ○ Semua dokumen yang dibutuhkan diberikan ke divisi Finance agar pencairan tunjangan melahirkan bisa di proses.
+   ○ Batas reimbursement berlaku maksimal 1 bulan sejak tanggal dikeluarkannya yang tertera pada Nota. Bila melewati tanggal, tim Finance berhak menolak proses reimbursement.
+   ○ Batas jumlah tunjangan melahirkan yang bisa diberikan perusahaan hanya 2x melahirkan.
+   ○ Bagi karyawan atau pasangan karyawan yang menggunakan BPJS Kesehatan atau asuransi mandiri atau biaya persalinan yang ditanggung oleh perusahaan pasangan, maka Perusahaan tidak akan memberikan tunjangan melahirkan.
+
+Diajukan Oleh,
+Evan Tree
+Head of Human Capital
+
+Disetujui Oleh,
+Yosia Sugialam
+Chief Executive Officer

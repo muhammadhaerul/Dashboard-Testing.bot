@@ -1,0 +1,91 @@
+title: Employee Direction - Company Policy
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction/company-policy
+content: Company Policy
+
+Table of Contents:
+1. How to calculate annual leave balance? 
+2. Can annual leave be carried over to the next year? 
+3. What are the changes in leave rules? 
+4. Can unused leave be converted to cash? 
+5. What is replacement off? 
+6. Attendance schedule
+7. Can there be attendance outside normal hours? 
+8. Is self photo in attendance mandatory? 
+9. Will reimbursement be done through GAJI.ID? 
+10. What to do If the leave balance is incorrect? 
+11. How about leave applied before Nov 21, 2023 for later use? 
+12. Issues with GAJI.ID account? 
+13. The valid leave period referred to, is it the period of usage or the period of taking? 
+14. Can probationary employees take leave? 
+15. Leave approval process: 
+16. Are permissions (izin) still valid? 
+17. Do employees on leave receive meal allowance? 
+
+FAQ for Employee Direction:
+1. How to calculate annual leave balance? 
+Your annual l eave period at PAPER.ID is from Jan 1 - Dec 31, with a monthly cutoff on the 15th. 
+Each year, employees get a total of 12 leaves, appearing monthly based on their join date. 
+For example, Lisa joined on March 15, 2023, therefore, her leave balance by Nov 31, 2023, is 9. 
+
+2. Can annual leave be carried over to the next year? 
+Yes, as of Nov 2023, any remaining leaves at the end of Dec can be carried over up to 6 days, usable until the end of June the following year. 
+The rest will expire. 
+
+3. What are the changes in leave rules? 
+Previously, your leave balance is counted starting from your join date and expired if unused. 
+The transition to the new system starts counting from the old system's cutoff in Dec 2023, prorated. 
+For instance, Ana joined on Aug 5, 2022; her old leave period was Aug 5, 2022 - Aug 4, 2023. 
+The remaining leaves by Dec 31, 2023, are carried forward. 
+
+4. Can unused leave be converted to cash? 
+No, unused leave will expire as per the rules. 
+
+5. What is replacement off? 
+Due to specific cases, it's a special leave for employees required to work on holidays. 
+Approval (including from C-Level) is needed. 
+
+6. Attendance schedule: 
+All employees must adhere to a default schedule of 9 am - 6 pm (8 work hours, 1-hour break). 
+*Some departments follow a roster. 
+
+7. Can there be attendance outside normal hours? 
+Yes, with prior notification and approval from HR, ensuring a minimum of 9 work hours daily. 
+Verification is done by the 20th of each month. 
+
+8. Is self photo in attendance mandatory? 
+Yes, it's mandatory for accurate attendance tracking. 
+
+9. Will reimbursement be done through GAJI.ID? 
+Yes, reimbursement will be done through GAJI.ID, with details communicated separately by the Finance team. 
+
+10. What to do If the leave balance is incorrect? 
+You can contact Ailsa Aurellia via Slack. 
+
+11. How about leave applied before Nov 21, 2023 for later use? 
+Resubmit the leave request on Gaji.ID if it's to be used after Nov 21, 2023. 
+
+12. Issues with GAJI.ID account? 
+You can contact Ailsa Aurellia via Slack. 
+
+13. The valid leave period referred to, is it the period of usage or the period of taking? 
+The applicable leave period is the actual leave period, not the time taken/requested. 
+For example, 
+Scenario A: Pada Oktober 2023, Alex memiliki total 8 hari cuti yang dapat digunakan. 
+Namun, rencana liburan Alex baru akan berlangsung pada Februari 2024. 
+Sayangnya, aturan perusahaan menyatakan bahwa cuti yang dimiliki harus digunakan dalam satu periode kalender, yaitu dari 1 Januari hingga 31 Desember. 
+Oleh karena itu, pengajuan cuti untuk Februari 2024 tidak dapat dilakukan karena melebihi periode cuti yang berlaku. 
+Scenario B: Setelah diterapkan kebijakan carry over, Alex memiliki kesempatan untuk memperpanjang penggunaan cutinya hingga 6 hari untuk tahun berikutnya, dengan batas maksimal penggunaan hingga Juni 2024. 
+Dengan menerapkan carry over, Alex dapat menggunakan 6 hari cuti pada tahun berikutnya (memotong dari sisa cuti tahun sebelumnya). 
+Namun, 2 hari sisanya harus digunakan dalam periode tahun sebelumnya yaitu 31 Desember 2023. 
+
+14. Can probationary employees take leave? 
+Leave becomes available after passing probation, but the balance is calculated from the join date (therefore, after you passed your probation, your annual leave balance will be 3 days). 
+
+15. Leave approval process: 
+Upon leave request, the immediate supervisor receives a notification for approval/rejection. 
+
+16. Are permissions (izin) still valid? 
+No, permissions are not applicable; you may use your annual leave for any personal or business matters. 
+
+17. Do employees on leave receive meal allowance? 
+No, meal allowances are only for working days, not applicable during any kind of leave.

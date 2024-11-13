@@ -1,0 +1,82 @@
+page: Employee Benefits
+updated_at: 05-09-2024 (DD-MM-YYYY)
+
+Table of Contents:
+- Employee Benefits
+- Employee Benefits - Healthcare
+- Employee Benefits - Optical Benefits
+- Employee Benefits - Maternity Benefits
+- Employee Benefits - L O P (Laptop Ownership Program)
+- Employee Benefits - Lunch Allowance
+- Employee Benefits - Deskimo
+
+
+title: Employee Benefits
+link: https://sites.google.com/paper.id/astronautscenter/employee-benefits
+content: 
+- Healthcare 
+- Optical Benefit 
+- Maternity Benefits 
+- L.O.P 
+- Lunch Allowance 
+- Deskimo
+
+
+title: Employee Benefits - Healthcare
+link: https://sites.google.com/paper.id/astronautscenter/employee-benefits/healthcare
+content: Healthcare. 
+At Paper.id, we are here to invest in both. 
+The well-being of you and your loved ones is our utmost concern. 
+Explore our comprehensive healthcare benefits designed to cater you, your spouse, and up to two children - because your well-being matters.
+- Slide AVRIST-GHS_PT Pakar Digital Global_Paper ID.pptx (https://docs.google.com/presentation/d/1JMpJZ2YN7D67d21Y40oj0i0ejPb_yhGM/edit?usp=sharing&ouid=106554906683625594588&rtpof=true&sd=true) 
+- Recording Avrist Socialization Avrist Socialization.mp4 (https://drive.google.com/file/d/1dAlJZZvh1jEpc37FILnlHg_vfuiS_7dA/view?usp=sharing)
+
+
+title: Employee Benefits - Optical Benefits
+link: https://sites.google.com/paper.id/astronautscenter/employee-benefits/optical-benefits
+content: Optical Benefits. 
+Your vision matters and we've got your back . 
+Our optical benefits help you see the world with better vision. 
+Discover how Paper.id bringing clarity and focus to your well-being! 
+- Guideline Optical Benefit 2023_Paper ID.pdf (https://drive.google.com/file/d/1Pp1rU-HgLBLTKfm8q9Rrdlzc0x2wuzrp/view?usp=sharing)
+
+
+title: Employee Benefits - Maternity Benefits
+link: https://sites.google.com/paper.id/astronautscenter/employee-benefits/maternity-benefits
+content: Maternity Benefits. 
+Embracing the miracle of life, one benefit at a time. 
+Our maternity reimbursement program is here to support you during this special journey - because bringing new life into the world deserves extra care! 
+- Guideline Maternity Reimbursement 2023_Paper ID.pdf (https://drive.google.com/file/d/1jHBybaYhgl55u18dIAP11ODYXtTYH0A2/view?usp=sharing)
+
+
+title: Employee Benefits - L O P (Laptop Ownership Program)
+link: https://sites.google.com/paper.id/astronautscenter/employee-benefits/l-o-p
+content: Laptop Ownership Program. 
+The tools you need in your hands, Our Laptop Ownership Program ensures you have the tools you need to excel both at work and beyond. 
+Take the driver's seat in your career journey with cutting-edge technology at your fingertips! 
+- Guideline Laptop Ownership Program 2023_Paper ID.pdf (https://drive.google.com/file/d/1L7r1C6IOGJhdY_MRP8vpIzKNFfMNJ-Ue/view?usp=sharing)
+- SOP Pengajuan LOP SOP PENGAJUAN LAPTOP OWNERSHIP PROGRAM.pdf (https://drive.google.com/file/d/1atjxramaC8A113GZd6VzX8jthI6vSiW-/view?usp=sharing)
+
+
+title: Employee Benefits - Lunch Allowance
+link: https://sites.google.com/paper.id/astronautscenter/employee-benefits/lunch-allowance
+content: Lunch Allowance.
+Enjoy a delicious meal on us, because we believe in fuelling your best work! 
+You will be provided with a Lunch Allowance of IDR 30K per working day. 
+The allowance will be disbursed along with your salary by end of the month. 
+*This allowance is eligible for full time employees only.
+
+
+title: Employee Benefits - Deskimo
+link: https://sites.google.com/paper.id/astronautscenter/employee-benefits/deskimo
+content: Deskimo. 
+Deskimo. 
+Find your perfect workspace and boost teamwork with Deskimo! 
+Wherever you thrive, work alongside your team in your preferred workspace. 
+Elevate productivity and collaboration by picking the perfect spot that fuels your creativity and innovation. 
+How to Activate Your Deskimo? 
+- Download Deskimo app on your mobile phone and register with your office mail/phone number. 
+- To add funds to your balance, kindly reach out to Ailsa Aurellia via Slack and communicate the purpose for which you intend to use maximum D-2. 
+- Guide App Deskimo (https://drive.google.com/file/d/1hVRDINNCOekP8y15bii-bwcq9zwaioQ9/view?usp=sharing)
+
+

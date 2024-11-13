@@ -1,0 +1,48 @@
+document: Paper.id Profile
+updated_at: January 2024
+
+
+Table of Contents:
+- Paper.id Profile
+- Paper.id Core Capabilities
+- Paper.id Milestones
+- Vision
+- Mission
+- Paper.id Achievements
+
+
+Paper.id Profile
+Paper.id aims to accelerate cash flow and ease the burden of business operations. We help businesses operate and track daily operations by leveraging our core competencies in invoicing, digital payments, and financing.
+Paper.id is the pioneer of a complete, automated, and user-focused B2B Payment Solution that helps companies get paid faster or pay later.
+
+Paper.id Core Capabilities:
+1. Invoicing
+   - Send unlimited invoices via SMS, WhatsApp, and email.
+   - View invoice status and provide payment reminders.
+   - Integrated with accounting and stock management systems.
+2. Payment
+   - Easy setup and acceptance of digital payments via bank transfer, credit card, marketplace, and offline merchant.
+   - Automatic payment reconciliation supported.
+3. Financing
+   - Connect with Financial Institutions.
+   - Your transaction history within our ecosystem allows faster funding approval.
+
+Paper.id Milestones:
+- 2017: Launched invoicing platform, funded by Golden Gate Ventures.
+- 2018: Launched Paper Finance Solution and received Series A funding.
+- 2019: Paper.id app launched on Playstore; used by 50k entrepreneurs.
+- 2020: Released enterprise solution and formed partnerships with OVO and Tokopedia.
+- 2021: Partnered with Gojek and Bank Jago, introduced a BNPL product for B2B customers.
+- 2022: Launched e-Materai for invoicing and partnered with Bank Muamalat, Blibli, and Visa for Payments.
+- 2023: Launched new office at BSD and partnered with BRI & Visa to launch PaperCard.
+
+Vision: 
+A universal platform that digitally connects businesses and their transactions.
+
+Mission: 
+Providing an integrated platform for businesses to unlock financial benefits within their supply chain.
+
+Paper.id Achievements:
+- 400,000+ Users: Trusted by over 400,000 SMEs for invoicing, payment, and financing solutions.
+- 10,000,000+ Digital Documents Created: Helped companies save millions in document processing costs.
+- IDR 500 billion+/Month Disbursed: Offered users flexible payment terms to control cash flow.

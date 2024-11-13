@@ -1,0 +1,111 @@
+page: Employee Direction
+updated_at: 05-09-2024 (DD-MM-YYYY)
+
+
+Table of Contents:
+- Employee Direction
+- Employee Direction - Core Values
+- Employee Direction - Organization Chart
+- Employee Direction - Spaceship Access
+- Employee Direction - Company Policy
+- Employee Direction - HRIS Employee Information
+- Employee Direction - Leader Resources
+
+
+title: Employee Direction
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction
+content: 
+- Core Values 
+- Organization Chart 
+- Spaceship Access 
+- Company Policy 
+- HRIS & Employee Information
+- Connect with Paper.id 
+
+
+title: Employee Direction - Core Values
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction/core-values
+content: Core Values 
+- All For One, One For All: We fosters a culture of collaboration, teamwork, and accountability, where individuals collaborate seamlessly towards common objectives, promoting equity, inclusiveness, and collective achievement. 
+- User is Our Boss: We obsessively focus on understanding and surpassing our customers' expectations. 
+- Innovation For Success: Our unwavering dedication ensures that every decision and action we take is aimed at delivering unparalleled value and exceptional experiences. We cultivate a culture that champions creativity and forward-thinking. Our relentless pursuit of innovative solutions isn't just about change—it's about achieving our company's ambitions. By driving growth, pursuing excellence, and adeptly navigating dynamic environments, we secure enduring success in all endeavors. 
+- Speak Freely, Act Boldly, Commit Fully: We champion open dialogue and fearless idea-sharing. Empowering our team to take bold, decisive actions with courage and conviction. Through unwavering dedication and wholehearted commitment, we generate significant impact and achieve extraordinary results.
+
+
+title: Employee Direction - Organization Chart
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction/organization-chart
+content: Organization Chart
+Link: https://sites.google.com/paper.id/astronautscenter/employee-direction/organization-chart 
+To access the full organization chart, please follow these steps: 
+1. Click on Authorize. 
+2. Select your Paper.id Gmail account. 
+3. Click Allow to grant access. 
+If the chart isn't showing, try the following steps: 
+1. Click 'Try Opening' to launch the diagram in draw.io. 
+2. Once the diagram opens, go back to the Astronauts Center page. 
+3. Refresh the page to see if the chart displays correctly. 
+This should help resolve the issue if it's related to a temporary glitch or loading problem. 
+Feel free to contact Adelia Parasia via Slack if you encounter any issue.
+
+
+title: Employee Direction - Spaceship Access
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction/spaceship-access
+content: Spaceship Access 
+- Sunter Spaceship! (HQ Office). 
+Alamat: (https://www.google.com/maps/place/Sunter+paradise+2/@-6.136913,106.866021,16z/data=!4m6!3m5!1s0x2e69f554825e2d17:0x9ed8f9c98ae74c74!8m2!3d-6.1349898!4d106.8673835!16s%2Fg%2F11t1fx88x0?hl=en&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D)
+- BSD Spaceship! (Branch Office Biomedical Campus Kavling Digital Hub, 3rd Floor, BSD City)
+Alamat: (https://www.google.com/maps?ll=-6.307111,106.654763&z=14&t=m&hl=en&gl=ID&mapclient=embed&cid=5620432108139653410)  
+Sunter Spaceship Wifi: 
+- Paper Indonesia: 3n9gak_t4u 
+- Paper Indonesia Mobile: HqP@p3r.!D 
+BSD Spaceship Wifi: 
+- Paper.id: 3n9gak_t4u
+
+
+title: Employee Direction - Company Policy
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction/company-policy
+content: Company Policy 
+Your 101 Guideline for Success! Our company policies are the roadmap to a thriving workplace. 
+Discover our commitment to excellence and a positive work environment through our policy documents. 
+- Company Policy (https://drive.google.com/file/d/1eMVuVuVhh0M3s4TE-80-wZlb2Km-pUki/view?usp=sharing)
+- SOP Compensation and Benefit (https://drive.google.com/file/d/13pb7pVDCr70MucQngl4555YpXmQYe4TC/view?usp=sharing)
+- SOP Probation (https://drive.google.com/file/d/1Dxd0TGWK5nPcbQfRwsg4m_nWY3ttxP8T/view?usp=sharing)
+- SOP Leave and Absence (https://drive.google.com/file/d/1h4s0um3EI52EsXlsSCpBtfq-BMBE18b2/view)
+- SOP Warning Letter (https://drive.google.com/file/d/1Ld8lXN2ZNW0qBAmI4QHbAREa6IbmF9D6/view?usp=sharing)
+- SOP Perpindahan Karyawan (https://drive.google.com/file/d/1GChq1bCkbmGuf0pY3E78esFFoxHjW5cB/view?usp=sharing)
+- SOP Laptop Ownership Program (https://drive.google.com/file/d/1atjxramaC8A113GZd6VzX8jthI6vSiW-/view?usp=sharing)
+- Anti Deskriminasi Policy (https://drive.google.com/file/d/14va3oUAxFRPl5DOLUYQ7uMP57GbupqMo/view?usp=sharing)
+
+
+title: Employee Direction - HRIS Employee Information
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction/hris-employee-information
+content: HRIS & Employee Information 
+Access important company documents to ensure you have the support you need! 
+HRIS: Absence, Leave & Payslip: 
+- Download the GAJI ID app from your respective App/Play Store. 
+- You will receive your username and password via email from no-reply@system.gaji.id. 
+- Enter your username and password in the Gaji.ID app. Create your new password. 
+- Let's explore! 
+Guide App E+ by Gaji.id (https://drive.google.com/file/d/1HuB-A773zfyO_z9_3FOy88DyTKbtEmNj/view?usp=sharing) 
+Marital Status:
+If you have recently gotten married, had kids, or gone through a divorce, 
+please update your status by completing this form: http://bit.ly/MaritalStatusDataPaper 
+If you need further assistance regarding HRIS, please contact Ailsa Aurellia via Slack
+
+
+title: Employee Direction - Leader Resources
+link: https://sites.google.com/paper.id/astronautscenter/employee-direction/leader-resources
+content: Leader Resources 
+Welcome to the Leader Resources! 
+Your go-to source for resources aimed at cultivating top-tier leadership skills. 
+This carefully curated folder is designed to empower managers like yourself with the knowledge and strategies needed to unlock the secrets to successful leadership. 
+- 1-on-1 Meeting 
+Guideline This guideline serves as your roadmap for conducting effective one-on-one meetings, 
+offering insights and best practices to enhance communication, build trust, and maximize productivity.
+1. 1on1 Meeting Template (https://drive.google.com/file/d/1jlUXrHPx-uZLN6prjL7rFmPC1Urn-kCr/view?usp=sharing)
+2. 1on1 Meeting Guideline (https://drive.google.com/file/d/13PFB2Qdihpak6NXZ9Z3Qu97Y2jtsWxvw/view?usp=sharing)
+3. 1on1 Meeting Question (https://drive.google.com/file/d/1jjqiq2iHU9Su2uhrhuifqy1kmxIrsfTT/view?usp=sharing)
+- SHUTTLE For enhanced leadership comprehension, we've equipped you with SHUTTLE - Shaping Our Talent to be T.O.P. Leader. 
+This resource offers comprehensive materials to refine your leadership skills. 
+Access these resources to delve deeper into leadership principles and strategies by clicking on the button below: 
+https://sites.google.com/paper.id/astronautscenter/astronauts-academy/shuttle
