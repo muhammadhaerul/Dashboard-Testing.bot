@@ -1,10 +1,12 @@
 import streamlit as st
 import os
 
-# Set the directory to store text files
+### ---------------------------- Directory Setup -------------------------- ###
 FILE_DIR = "FILE_DIR"
 os.makedirs(FILE_DIR, exist_ok=True)
 
+
+### ---------------------------- Session State -------------------------- ###
 # Initialize session state for options and confirmation prompts
 if 'show_option' not in st.session_state:
     st.session_state.show_option = True  # Set show_option as the default
@@ -37,8 +39,10 @@ def reset_options():
     st.session_state.confirm_update = False
     st.session_state.confirm_delete = False
 
-# Page Configurations
-st.set_page_config(page_title="Text File Management Dashboard", layout="wide")
+
+
+### ----------------------------Page Config-------------------------- ###
+st.set_page_config(page_title="Ask-Orion.bot Management Dashboard", layout="wide")
 st.markdown(
     """
     <style>
@@ -104,43 +108,37 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Custom Footer
-def footer():
-    st.markdown(
-        """
-        <div class="footer">
-            <hr style="margin-top:2rem; margin-bottom:2rem;">
-            &copy; 2024 APE Paper.id
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
 
+### ----------------------------Sidebar-------------------------- ###
 # Sidebar Navigation with Icons
 st.sidebar.title("📂 Dashboard Navigation")
 st.sidebar.header("📝 File Management")
-st.sidebar.markdown("Use the options below to manage your text files:")
+st.sidebar.markdown("Use the options below to manage text files:")
 
 # Sidebar Options with Session State
-if st.sidebar.button("📘 Show Files"):
+if st.sidebar.button("📘 Show Text Files"):
     reset_options()
     st.session_state.show_option = True
-if st.sidebar.button("⬆️ Upload Text File"):
+if st.sidebar.button("⬆️ Upload New Text File"):
     reset_options()
     st.session_state.upload_option = True
-if st.sidebar.button("🆕 Create New File"):
+if st.sidebar.button("🆕 Create New Text File"):
     reset_options()
     st.session_state.create_option = True
-if st.sidebar.button("🔍 Update Existing File"):
+if st.sidebar.button("🔍 Update Existing Text File"):
     reset_options()
     st.session_state.update_option = True
-if st.sidebar.button("🚮 Delete Existing File"):
+if st.sidebar.button("🚮 Delete Existing Text File"):
     reset_options()
     st.session_state.delete_option = True
 
+
+
+### ----------------------------Main Page-------------------------- ###
 # Main Title
-st.markdown("<div class='main-header'>Text File Management Dashboard</div>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; font-size: 1.2rem;'>Create, upload, update, and delete text files!</p>", unsafe_allow_html=True)
+st.markdown("<div class='main-header'>Ask-Orion.bot Management Dashboard</div>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 1.2rem;'>Create, upload, update, and delete files!</p>", unsafe_allow_html=True)
+
 
 # Show Files (Default View)
 if st.session_state.show_option:
@@ -162,9 +160,10 @@ if st.session_state.show_option:
     else:
         st.write("No files available.")
 
+
 # Main Content for Uploading Files
 if st.session_state.upload_option:
-    st.header("⬆️ Upload Text File")
+    st.header("⬆️ Upload New Text File")
     uploaded_files = st.file_uploader("Upload .txt files", type=["txt"], accept_multiple_files=True)
     if uploaded_files:
         st.session_state.confirm_upload = True
@@ -193,6 +192,7 @@ if st.session_state.upload_option:
             if st.button("❌ Cancel"):
                 st.error("Upload action canceled.")
                 st.session_state.confirm_upload = False
+
 
 # Main Content for Creating New File
 if st.session_state.create_option:
@@ -231,9 +231,10 @@ if st.session_state.create_option:
                 st.error("File creation canceled.")
                 st.session_state.confirm_create = False
 
+
 # Main Content for Updating Existing File
 if st.session_state.update_option:
-    st.header("🔍 Update Existing File")
+    st.header("🔍 Update Existing Text File")
     files = [f for f in os.listdir(FILE_DIR) if f.endswith(".txt")]
     if files:
         selected_file = st.selectbox("Select a file to update", files)
@@ -275,9 +276,10 @@ if st.session_state.update_option:
                         st.error("Update action canceled.")
                         st.session_state.confirm_update = False
 
+
 # Main Content for Deleting Existing File
 if st.session_state.delete_option:
-    st.header("🚮 Delete Existing File")
+    st.header("🚮 Delete Existing Text File")
     files = [f for f in os.listdir(FILE_DIR) if f.endswith(".txt")]
     if files:
         selected_file = st.selectbox("Select a file to delete", files, key="delete_selectbox")
@@ -321,5 +323,19 @@ if st.session_state.delete_option:
                         st.error("Delete action canceled.")
                         st.session_state.confirm_delete = False
 
-# Display custom footer
+
+
+### ----------------------------Footer -------------------------- ###
+# Custom Footer
+def footer():
+    st.markdown(
+        """
+        <div class="footer">
+            <hr style="margin-top:2rem; margin-bottom:2rem;">
+            &copy; 2024 APE Paper.id
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
 footer()
