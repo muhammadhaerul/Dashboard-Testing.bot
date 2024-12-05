@@ -1,6 +1,8 @@
 import streamlit as st
 import os
 
+from Helpers import get_txt_sorted_files
+
 ### ---------------------------- Directory Setup -------------------------- ###
 FILE_DIR = "FILE_DIR"
 os.makedirs(FILE_DIR, exist_ok=True)
@@ -143,7 +145,7 @@ st.markdown("<p style='text-align: center; font-size: 1.2rem;'>Create, upload, u
 # Show Files (Default View)
 if st.session_state.show_option:
     st.header("📘 Show Text Files")
-    files = [f for f in os.listdir(FILE_DIR) if f.endswith(".txt")]
+    files = get_txt_sorted_files(FILE_DIR)
     if files:
         selected_file = st.selectbox("Select a file to view", files, key="show_selectbox")
         if selected_file:
@@ -235,7 +237,7 @@ if st.session_state.create_option:
 # Main Content for Updating Existing File
 if st.session_state.update_option:
     st.header("🔍 Update Existing Text File")
-    files = [f for f in os.listdir(FILE_DIR) if f.endswith(".txt")]
+    files = get_txt_sorted_files(FILE_DIR)
     if files:
         selected_file = st.selectbox("Select a file to update", files)
         if selected_file:
@@ -280,7 +282,7 @@ if st.session_state.update_option:
 # Main Content for Deleting Existing File
 if st.session_state.delete_option:
     st.header("🚮 Delete Existing Text File")
-    files = [f for f in os.listdir(FILE_DIR) if f.endswith(".txt")]
+    files = get_txt_sorted_files(FILE_DIR)
     if files:
         selected_file = st.selectbox("Select a file to delete", files, key="delete_selectbox")
         
